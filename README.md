@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amBaymax
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning FRONTEND
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via ashumgs677@gmail.com
 
